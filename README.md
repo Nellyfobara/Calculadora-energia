@@ -1,4 +1,4 @@
-# ⚡💲 Calculadora de Consumo de Energia Residencial ⚡💲
+# ⚡ Calculadora de Consumo de Energia Residencial 💲
 
 Este projeto foi desenvolvido como parte da *Agenda 05* do curso *Técnico em Desenvolvimento de Sistemas (ETEC)*.
 
